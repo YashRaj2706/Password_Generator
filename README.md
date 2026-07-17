@@ -1,4 +1,4 @@
-# Secure Password Strength Checker
+# Password Generator and Strength Checker
 
 A Python-based authentication security utility that analyzes user passwords for strength, policy compliance, and personal data exposure. 
 
